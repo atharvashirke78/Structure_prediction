@@ -1,0 +1,11 @@
+# Core scoring pipeline dependencies
+numpy
+pandas
+scipy
+
+# PyMOL (Open-Source PyMOL 3.1.0 used for reported results) must be installed
+# separately, e.g. via conda: `conda install -c conda-forge pymol-open-source`
+
+# Interface-fingerprint analysis (Section 3.6, exploratory)
+gemmi
+pdbe-arpeggio

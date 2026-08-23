@@ -1,0 +1,11 @@
+Model,N_predictions,N_masked_fv_rmsd,N_zero_fv_rmsd,N_cdr_h3_rmsd,N_cdr_l3_rmsd,N_tm_score,N_tm_score_independently_reverifiable,N_interface_fingerprint,N_stereochemistry,N_total_targets
+AbFold,58,58,58,56,1,58,False,58,58,58
+ABodyBuilder3,58,58,58,56,1,58,False,58,58,58
+AlphaFold 2,58,58,58,57,58,58,False,58,58,58
+Boltz-2,58,58,58,57,58,58,False,58,58,58
+Chai-1,58,58,58,57,58,58,True,58,58,58
+ESMFold2,58,58,58,57,58,58,True,58,58,58
+Ibex,58,58,58,56,1,58,False,58,58,58
+IgFold,58,58,58,57,56,58,False,57,58,58
+IntelliFold,58,58,58,57,57,58,False,57,58,58
+OpenFold3,58,58,58,57,56,58,True,56,58,58

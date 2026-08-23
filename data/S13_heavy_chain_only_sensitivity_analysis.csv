@@ -1,0 +1,4 @@
+Model,n_valid_including_heavy_chain_only_fallback,n_valid_excluding_heavy_chain_only_primary,Conv_median_including_HC_only,Conv_median_excluding_HC_only_primary,Unfilt_median_including_HC_only,Unfilt_median_excluding_HC_only_primary,CDR_H3_median_including_HC_only,CDR_H3_median_excluding_HC_only_primary
+Intellifold,58,57,0.4153,0.4144,1.5347,1.5293,1.0314,1.042
+OpenFold3,58,56,0.4302,0.4302,1.4552,1.4235,1.1833,1.1833
+IgFold,58,57,0.5131,0.5213,0.9016,0.9014,1.1756,1.1742
