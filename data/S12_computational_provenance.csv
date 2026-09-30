@@ -5,7 +5,7 @@ ANARCI,"v1.3, used for independent chain-identification validation (Section 2.3)
 Arpeggio,"pdbe-arpeggio v1.4.4, used for the interface-contact fingerprint (Section 3.6) [26]"
 PDBFixer,"v1.12.0 (OpenMM 8.6.0), used only to reconstruct side-chain atoms on IgFold's backbone/Cβ-only predictions prior to interface-fingerprint scoring (Section 3.6) [27]"
 TM-align,"tmtools v0.3.0, a Python binding to the original TM-align implementation [21]"
-CCTBX/MolProbity-equivalent,"cctbx-base 2026.6 (mmtbx ramalyze and clashscore modules), used for the Ramachandran-outlier and clashscore analysis in Section 3.5 [22, 23]"
+CCTBX/MolProbity-equivalent,"cctbx-base 2026.6 (mmtbx ramalyze and clashscore2 modules), used for the Ramachandran-outlier and clashscore analysis in Section 3.5 [22, 23]; GeoStd restraint library at commit 4e1c1c0444d9ab9c4a1e01626011ea0f62fddb16 (dated 2026-09-15). Clashscore additionally depends on the chemical-component library backing CCTBX's hydrogen-placement step for the eight models whose predictions carry no hydrogens; that library's version was not recorded at run time and should be captured in any reproduction (Section 4.5)."
 ColabFold/MMseqs2 MSA server,"api.colabfold.com, queried 2026-07 to 2026-08 for OpenFold3's multiple-sequence alignments (mode=env); each alignment capped at 2,000 sequences per chain (Section 2.4 limitations) [8]"
 OpenFold3 inference,"NVIDIA-hosted API (health.api.nvidia.com), queried 2026-07 to 2026-08 [7]"
 Statistical software,"Python 3.11, scipy (Wilcoxon signed-rank test), custom bootstrap implementation (10,000 resamples, fixed random seed 42)"

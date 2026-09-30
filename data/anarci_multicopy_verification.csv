@@ -1,0 +1,9 @@
+pdb_id,chain,chain_length_aa,anarci_chain_type,interpretation,species,evalue,bitscore
+1RHH,A,215,K,light (kappa),human,3.1e-54,173.4
+1RHH,B,233,H,heavy,human,9.0e-48,152.8
+1RHH,C,215,K,light (kappa),human,3.1e-54,173.4
+1RHH,D,232,H,heavy,human,1.3e-47,152.3
+5CEX,A,207,L,light (lambda),human,6.9e-44,140.2
+5CEX,B,233,H,heavy,human,7.4e-47,149.8
+5CEX,C,213,L,light (lambda),human,9.7e-46,146.2
+5CEX,D,232,H,heavy,human,7.3e-47,149.8

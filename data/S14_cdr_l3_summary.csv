@@ -1,0 +1,11 @@
+Model,CDR_L3_RMSD_median_A,CDR_L3_RMSD_max_A,n_valid_of_58
+Boltz-2,0.33,1.6,58
+AlphaFold 2,0.35,3.84,58
+Chai-1,0.3,3.87,58
+ESMFold2,0.28,3.9,58
+IntelliFold,0.27,2.65,57
+OpenFold3,0.3,2.2,56
+IgFold,0.42,1.86,56
+ABodyBuilder3,1.25,1.25,1
+Ibex,1.12,1.12,1
+AbFold,9.74,9.74,1
